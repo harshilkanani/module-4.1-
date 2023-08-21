@@ -1,0 +1,28 @@
+1.What is OOP? List OOP concepts.
+-->Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
+*oops concepts.
+1.Class
+2.Objects
+3.Encapsulation
+4.Abstraction
+5.Polymorphism
+6.Inheritance
+7.Dynamic Binding
+8.Message Passing
+
+2.What is the difference between OOP and POP? 
+Parameter	Object Oriented Programming(OOP)	                                  Procedure Oriented Programming(POP)
+Definition	1.OOP refers to Object Oriented Programming.                               1.POP refers to Procedural Oriented Programming and deals 
+                It deals with objects and their properties.                                  with programs and functions. 
+Approach	2.An object-oriented program uses the bottom-up approach.                  2.A procedure-oriented program uses the top-down approach.
+Access Control	3.Access control is supported by the means of access modifiers.            3.No access modifiers are supported. 
+                The access specifiers such as public, private and protected are 
+                used.
+Data Hiding	4.Data can be hidden using encapsulation.                                  4.There is no data-hiding mechanism. Data is globally accessible, 
+                                                                                             as there are no access specifiers.   
+Entity Linkage	5.Object functions are linked through message passing.                     5.Parameter passing is involved in message passing.
+Polymorphism	6.Method overloading and method overriding are used in OOP to              6.POP does not support polymorphism.
+                achieve polymorphism.   
+Code Reuse	7.OOP supports code reusability.	                                   7.No code reusability is provided by POP.    
+Operator        8.It is allowed in OOP. 	                                           8.Operator overloading is not allowed in POP.
+Overloading	
